@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+    <head>
+        <title> wrect it ralph</title>
+        <link rel="icon" href="img/ralph1.jpeg"> 
+    </head>
+    <header>
+        <img src="img/ralph1.jpeg" >
+        <h1>this is ralph</h1>
+    </header>
+
+<!-- main element-->
+<main>
+    <h2> about ralph</h2>
+    <p> raplh is a big guy and a strong guy <br>
+    he can defeat anyone  </p>
+    <h2> this is characterstics of ralph</h2>
+    <ol>
+        <li> raplh is jaat</li>
+        <li> raplh is jaat</li>
+        <li> raplh is jaat</li>
+    </ol>
+    <h2>raplh and his friends</h2>
+    <p> good friends </p>
+    <ul>
+        <li><a href="https://en.wikipedia.org/wiki/Water"> water</a>
+        <li><a href="https://en.wikipedia.org/wiki/Land"> Land</a>
+        <li><a href="https://en.wikipedia.org/wiki/fire"> fire</a>
+
+<footer>
+    <h3>thank you</h3>
+    <p> this site main purpose was education pupose by <a href="https://en.wikipedia.org" target="_blank"> wikipedia  </a></p>
+</footer>
+</html>
