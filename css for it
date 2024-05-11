@@ -1,0 +1,55 @@
+ body{ 
+       background-color: black;
+        margin: 0;
+        color: grey;
+    }
+    
+    header{
+        padding-top: 40px;
+        padding-bottom: 30px;
+        background-color: rgb(244, 10, 10);
+        text-align: center;
+    }
+    h1{
+        color: rgb(255, 255, 255);
+    }
+    header img{
+        border-radius: 200px;
+        width: 400px;
+        border: 20px solid whitesmoke;
+    }
+    main{
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+     }
+     h1,h2  {
+        font-family: "Noto Sans JP", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 200px ;
+        font-style: normal;
+        color: aliceblue;
+     }
+     a{
+        color:grey ;
+     }
+     a:hover{
+        color: white;
+        background-color: purple;
+     }
+     footer{
+        padding: 20px;
+        background-color: rgb(244, 10, 10);
+        text-align: center;
+        width: max-content; 
+     }
+     footer a{
+        color: grey ;
+     }
+     footer a:hover {
+        background-color: transparent;
+        opacity: .5;
+     }
+     footer p{
+        margin: 0px;
+     }
